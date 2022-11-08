@@ -1,0 +1,61 @@
+{
+    "Summer":[{
+        "id":4913,
+        "name":"Towels"
+    },
+    {
+        "id":6464,
+        "name":"beach toys"
+    }
+],
+"Winter":[
+    {
+        "id":4502,
+        "name":"sweaters"
+    },
+    {
+        "id":5242,
+        "name":"Tea Kettles"
+    }
+],
+"Rain":[
+    {
+        "id":4467,
+        "name":"Umbrellas"
+    },
+    {
+        "id":6570,
+        "name":"Rainwear"
+    }
+    ],
+"Christmas":[
+    {
+        "id":5552,
+        "name":"Pet Toys"
+    },
+    {
+        "id":6709,
+        "name":"Decorative Collectibles"
+    }
+    ],
+    "New Year":[
+        {
+            "id":4749,
+            "name":"Gourmet Gifts"
+        },
+        {
+            "id":7013,
+            "name":"Gift Cards & Gift Certificates"
+        }
+        ],
+    "Veterans Day":[
+        {
+            "id":5311,
+            "name":"Perennials"
+        },
+        {
+            "id":5118,
+            "name":"Valances"
+        }
+    ]
+}
