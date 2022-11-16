@@ -3,14 +3,18 @@ import openai
 from IPython.display import display, Markdown
 from pyppeteer import launch
 from bs4 import BeautifulSoup
-api_key = "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"
+api_key = "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"
 openai.api_key=api_key
 
 async def main():
+
     browser = await launch(Headless = True,Args = ["--no-sandbox","--disable-dev-shm-usage","--disable-gpu","--disable-setuid-sandbox","--no-first-run","--no-zygote","--single-process"])
+    prompt=input("Enter User Query:")
+    prompt=prompt.replace(" ","+")
     page = await browser.newPage()
+    print('https://www.google.com/search?q='+prompt)
     await page.setViewport({"width": 1920,"height": 1080})
-    await page.goto('https://www.google.com/search?q=Nike+Air+Max+Excee+Men%27s+Shoe')
+    await page.goto('https://www.google.com/search?q='+prompt)
     
     titles = await page.querySelectorAll('.VwiC3b,.yXK7lf,.MUxGbd,.yDYNvb,.lyLwlc')
     links = await page.querySelectorAll('.fG8Fp,.uo4vr')
