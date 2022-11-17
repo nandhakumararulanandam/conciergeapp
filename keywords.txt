@@ -16,9 +16,6 @@ Keywords = Smartphone|Single SIM|iOS|GSM Network|CDMA Network|Fingerprint Scanne
 Backlit Keyboard Work or play, the Acer Aspire 7 Gaming Laptop is sure to be your ideal computing partner as it comes with a host of features. Boasting a large 39.62 cm (15.6) Full HD LED IPS display, this gaming laptop ensures that every visual, be it while playing games or watching a video, is crisp and vibrant. Moreover, it comes with the combination of an AMD Ryzen 5500U processor and NVIDIA GeForce GTX 1650 GPU, making it a powerful and reliable system for everyday use
 Keywords = Windows OS|NVIDIA GPU|Solid State Drive|Hexa Core|With Backlit Keyboard|USB-C
 
-
-Keywords = Fit and Flare|Casual|Floral|S|Half-sleeve|Midi
-
 Pattern Is Solid. Style Code Is Hlss000438. Reversible Is No. Sales Package Is Sweat Shirt. Occasion Is Casual. Hooded Is Yes. Color Is Black. Fabric Care Is Gentle Machine Wash. Neck Is Hooded Neck. Sleeve Is Full Sleeve. Fabric Is Polyester. Suitable For Is Western Wear.
 Keywords = Men|L|Polyester|Long Sleeve|Hooded
 
